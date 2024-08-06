@@ -1,1 +1,1 @@
-# Fruit-Disease-Detection
+# citrus-fruit-disease-detection
